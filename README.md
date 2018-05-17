@@ -1,2 +1,2 @@
 # Babydoll
-Just first step to start Javascript project
+Simply a first step to start Javascript project
